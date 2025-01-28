@@ -9,10 +9,15 @@
     text-align: center;
 }
 
-#CovertArt {
+#Actors {
+    list-style-position: inside;
+    padding: 0;
+    text-align: center;
+}
+
+#CoverArt {
     display: block;
-    margin-left: auto;
-    margin-right: auto;
-    height: 300px;
-    width:auto;
+    margin: 20px auto;
+    width: 300px; 
+    height: auto; 
 }
